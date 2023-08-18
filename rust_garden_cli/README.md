@@ -1,4 +1,4 @@
-# ![File Management Cli App in Rust]
+# File Management Cli App in Rust
 
 ##[Demo]&nbsp;&nbsp;&nbsp;[Cli App in Rust]
 
