@@ -1,0 +1,11 @@
+/home/engr-uba/Downloads/02 Rust-project/rust_garden_cli/target/debug/deps/bitflags-0b72d25c09ebdbb3.rmeta: /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/lib.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/iter.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/parser.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/traits.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/public.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/internal.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/external.rs
+
+/home/engr-uba/Downloads/02 Rust-project/rust_garden_cli/target/debug/deps/bitflags-0b72d25c09ebdbb3.d: /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/lib.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/iter.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/parser.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/traits.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/public.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/internal.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/external.rs
+
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/lib.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/iter.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/parser.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/traits.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/public.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/internal.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/external.rs:

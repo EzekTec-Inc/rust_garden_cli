@@ -1,0 +1,12 @@
+/home/engr-uba/Downloads/02 Rust-project/rust_garden_cli/target/debug/deps/tempfile-ff775fbe153d5afe.rmeta: /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/lib.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/dir.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/error.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/file/mod.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/file/imp/mod.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/spooled.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/util.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/file/imp/unix.rs
+
+/home/engr-uba/Downloads/02 Rust-project/rust_garden_cli/target/debug/deps/tempfile-ff775fbe153d5afe.d: /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/lib.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/dir.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/error.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/file/mod.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/file/imp/mod.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/spooled.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/util.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/file/imp/unix.rs
+
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/lib.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/dir.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/error.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/file/mod.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/file/imp/mod.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/spooled.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/util.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.7.1/src/file/imp/unix.rs:

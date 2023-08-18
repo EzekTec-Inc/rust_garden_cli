@@ -1,0 +1,10 @@
+/home/engr-uba/Downloads/02 Rust-project/rust_garden_cli/target/debug/deps/linux_raw_sys-a362e8559a6ee297.rmeta: /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/lib.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/x86_64/errno.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/x86_64/general.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/x86_64/ioctl.rs
+
+/home/engr-uba/Downloads/02 Rust-project/rust_garden_cli/target/debug/deps/liblinux_raw_sys-a362e8559a6ee297.rlib: /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/lib.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/x86_64/errno.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/x86_64/general.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/x86_64/ioctl.rs
+
+/home/engr-uba/Downloads/02 Rust-project/rust_garden_cli/target/debug/deps/linux_raw_sys-a362e8559a6ee297.d: /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/lib.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/x86_64/errno.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/x86_64/general.rs /home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/x86_64/ioctl.rs
+
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/lib.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/x86_64/errno.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/x86_64/general.rs:
+/home/engr-uba/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.5/src/x86_64/ioctl.rs:
