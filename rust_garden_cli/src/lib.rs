@@ -1,4 +1,5 @@
 use edit::{edit_file, Builder};
+use owo_colors::{colors::*, OwoColorize};
 use std::{fs, io, io::Write, path::PathBuf};
 
 pub fn write(garden_path: PathBuf, title: Option<String>) -> Result<(), std::io::Error> {
@@ -60,7 +61,7 @@ pub fn write(garden_path: PathBuf, title: Option<String>) -> Result<(), std::io:
 /// Prompt user to enter a filename. This returns an `io::Result`, which contains the `io::Error`
 /// when it fails
 fn ask_for_filename() -> io::Result<String> {
-    rprompt::prompt_reply("Enter filename > ")
+    rprompt::prompt_reply("Enter filename > ".blue().bold().underline())
 }
 
 /// Confirm the filename discovered by the system and give user opportunity to acdept or change impl Trait for Type {
@@ -70,8 +71,9 @@ fn confirm_filename(raw_title: &str) -> io::Result<String> {
         // this is a convention, not a requirement enforced by the code
         let result = rprompt::prompt_reply(&format!(
             "current title: {}
-            Do you want a different title? (y/N): ",
-            &raw_title,
+            Do you want a different title? (y/{}): ",
+            &raw_title.bold().green(),
+            "N".fg::<Blue>(),
         ))?;
 
         match result.as_str() {
